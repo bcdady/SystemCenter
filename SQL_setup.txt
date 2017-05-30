@@ -1,0 +1,5 @@
+D:\SystemCenter\SC2012\Prereqs\SQL 08R2\en_sql_server_2008_r2_standard_x86_x64_ia64_dvd_521546.lnk
+D:\SystemCenter\SC2012\Prereqs\SQLServer2008R2SP1\SQLServer2008R2SP1-KB2528583-x64-ENU.exe
+D:\SystemCenter\SC2012\Prereqs\SQL 08R2SP1CU4\SQLServer2008R2-KB2633146-x64.exe
+
+
